@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="quantity">Cantidad</string>
+    <string name="quantityJava">"\nCantidad: "</string>
+    <string name="thankYouJava">\nGracias!</string>
+    <string name="toppings">Coberturas</string>
+    <string name="totalJava">"\nTotal: "</string>
+    <string name="whippedCreamJava">"\nCrema Batida "</string>
+    <string name="whipped_cream">Crema Batida</string>
+    <string name="order">ORDENAR</string>
+    <string name="nameJava">"Nombre: "</string>
+    <string name="name">Nombre</string>
+    <string name="moreCoffeesJava">No puedes pedir más de 99 cafés</string>
+    <string name="lessCoffeeJava">No puedes pedir menos de 1 café</string>
+    <string name="justJavaOrderFor">"Just Java orden para "</string>
+    <string name="infoJava">Información enviada</string>
+    <string name="chocolate_topping">Cubierta Chocolate</string>
+    <string name="chocolateToppingJava">"\nCubierta Chocolate: "</string>
+</resources>
